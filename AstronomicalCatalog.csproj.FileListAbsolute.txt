@@ -1,0 +1,11 @@
+C:\Users\Андрей\Desktop\Alenka\AstronomicalCatalog\obj\Debug\AstronomicalCatalog.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\Alenka\AstronomicalCatalog\obj\Debug\AstronomicalCatalog.Data.resources
+C:\Users\Андрей\Desktop\Alenka\AstronomicalCatalog\obj\Debug\AstronomicalCatalog.Form1.resources
+C:\Users\Андрей\Desktop\Alenka\AstronomicalCatalog\obj\Debug\AstronomicalCatalog.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Alenka\AstronomicalCatalog\obj\Debug\AstronomicalCatalog.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\Alenka\AstronomicalCatalog\obj\Debug\AstronomicalCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Alenka\AstronomicalCatalog\bin\Debug\AstronomicalCatalog.exe.config
+C:\Users\Андрей\Desktop\Alenka\AstronomicalCatalog\bin\Debug\AstronomicalCatalog.exe
+C:\Users\Андрей\Desktop\Alenka\AstronomicalCatalog\bin\Debug\AstronomicalCatalog.pdb
+C:\Users\Андрей\Desktop\Alenka\AstronomicalCatalog\obj\Debug\AstronomicalCatalog.exe
+C:\Users\Андрей\Desktop\Alenka\AstronomicalCatalog\obj\Debug\AstronomicalCatalog.pdb
